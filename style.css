@@ -1,0 +1,44 @@
+p {
+  font-size: x-large;
+}
+
+.player {
+  border: 3px #00000047;
+  border-radius: 20px;
+  width: 300px;
+  margin-left: 200px;
+  background: #4b45450f;
+  border-style: groove;
+  height: 500px;
+  padding-top: 300px;
+  padding-left: 150px;
+}
+
+.btn {
+  width: 200px;
+  height: 50px;
+  background: #beb8b8a3;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin: 50px 0 50px 0;
+  font-size: x-large;
+}
+
+#buttons {
+  display: flex;
+  flex-flow: column;
+  padding-top: 100px;
+  margin-left: 200px;
+  text-align: center;
+}
+
+#main {
+  display: flex;
+  flex-flow: row;
+}
+
+#title {
+  text-align: center;
+  font-size: xxx-large;
+  padding-left: 100px;
+}
